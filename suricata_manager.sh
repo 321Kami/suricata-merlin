@@ -8,7 +8,7 @@
 # shellcheck disable=SC2034  # Unused variables left for readability
 
 VER="v1.2"
-GITHUB="https://raw.githubusercontent.com/juched78/suricata-merlin/master/"
+GITHUB="https://raw.githubusercontent.com/321kami/suricata-merlin/master/"
 #======================================================================================================= © 2020 Martineau, v1.03
 #  Install 'suricata - Real-time Intrusion Detection System (IDS), Intrusion Prevention System (IPS) package from Entware on Asuswrt-Merlin firmware.
 #

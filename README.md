@@ -20,7 +20,7 @@ Includes scripts to support features like:
 
 1.  Run the installer:
 	```sh
-	mkdir /jffs/addons 2>/dev/null;mkdir /jffs/addons/suricata 2>/dev/null; curl --retry 3 "https://raw.githubusercontent.com/juched78/suricata-merlin/master/suricata_manager.sh" -o "/jffs/addons/suricata/suricata_manager.sh" && chmod 755 "/jffs/addons/suricata/suricata_manager.sh" && /jffs/addons/suricata/suricata_manager.sh install
+	mkdir /jffs/addons 2>/dev/null;mkdir /jffs/addons/suricata 2>/dev/null; curl --retry 3 "https://raw.githubusercontent.com/321kami/suricata-merlin/master/suricata_manager.sh" -o "/jffs/addons/suricata/suricata_manager.sh" && chmod 755 "/jffs/addons/suricata/suricata_manager.sh" && /jffs/addons/suricata/suricata_manager.sh install
 	```
 
 ## Usage
